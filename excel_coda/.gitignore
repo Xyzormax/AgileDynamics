@@ -1,0 +1,10 @@
+# Excel temp/lock files
+~$*.xls*
+~$*.doc*
+
+# Excel binaries (track source .bas/.cls/.frm instead)
+*.xlsb
+*.xls
+
+# Keep macro-enabled workbooks if intentionally committed
+# *.xlsm
