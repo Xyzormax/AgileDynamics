@@ -1,0 +1,6 @@
+# Excel temp/lock files
+~$*.xls*
+
+# Excel binaries (track source .bas/.cls/.frm instead)
+*.xlsb
+*.xls
